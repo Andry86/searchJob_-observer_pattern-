@@ -1,0 +1,6 @@
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\bin\Debug\findJob.exe.config
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\obj\Debug\findJob.csprojResolveAssemblyReference.cache
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\bin\Debug\findJob.exe
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\bin\Debug\findJob.pdb
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\obj\Debug\findJob.exe
+c:\users\andrea\documents\visual studio 2012\Projects\findJob\findJob\obj\Debug\findJob.pdb
